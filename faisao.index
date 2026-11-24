@@ -4,7 +4,7 @@
     <h1>MEU PRIMEIRO SITE</h1>
     <P>Escolha uma opção:</p>
     
-    <a href="trampolim.html">
+    <a href="Trampolim.html">
        <button>TRAMPOLIM</button>
     </a>
     <a href="piscina.html">
