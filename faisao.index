@@ -2,9 +2,9 @@
 </head>
 <body>
     <h1>MEU PRIMEIRO SITE</h1>
-    <P>Escolha uma opção:</p>
+    <P>Escolha uma opcao:</p>
     
-    <a href="Trampolim.html">
+    <a href="trampolim.html">
        <button>TRAMPOLIM</button>
     </a>
     <a href="piscina.html">
@@ -15,4 +15,3 @@
     </a>
 </body>
 </html>
-
